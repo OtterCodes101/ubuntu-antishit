@@ -3,5 +3,5 @@
 echo Making your install better...
 apt autoremove --purge snapd -y
 echo If apt gave any errors, ignore them.
-apt-makr hold snapd
+apt-mark hold snapd
 echo Done! Enjoy your upgraded Ubuntu install!
