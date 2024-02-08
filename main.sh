@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Ubuntu Anti-Shit - Make Ubuntu 99 times better!
 
 echo Making your install better...
