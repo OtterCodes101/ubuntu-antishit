@@ -5,3 +5,4 @@ apt autoremove --purge snapd -y
 echo If apt gave any errors, ignore them.
 apt-mark hold snapd
 echo Done! Enjoy your upgraded Ubuntu install!
+echo 'Ubuntu may give popups after this, in that case run shutup.sh'
